@@ -1,0 +1,21 @@
+----------------Mais pra frente:---------------
+
+**Mandar e-mail quando cria-se a conta
+* Notificaçao em todas paginas que tiver atividade do usuario
+*Mandar solicitacao pra uma só pessoa tb
+*notificar usuario quando ele tiver 1 real (voce pode doar) e 10 reais (voce
+pode sacar seu dinheiro)
+*Aprimorar a seguranca do banco
+*Fazer melhores anotacoes do codigo.
+*criar um banco que receba a quantidade de gift card que tem disponivel para 
+distribuir e fazer com que mostre indiponivel quando acabar, impedindo a troca.
+
+----------O que falta fazer: ------------------
+verificar se o usuario tem dinheiro suficiente para realizar a troca.
+troca.php receber o item de troca e o valor, ao clickar em continuar fazer
+com que o valor do item seja descontado na carteira do usuario e notificar 
+ele avisando que receberá em até 7 dias pelo email ou telefone celular
+
+no painel adm, mostrar os usuarios que desejam realizar a troca.
+
+https://www.youtube.com/watch?v=79P6e-VLO24
